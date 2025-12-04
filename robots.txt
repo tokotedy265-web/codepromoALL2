@@ -1,0 +1,3 @@
+Allow: /
+
+Sitemap: https://quiet-dodol-72c02f.netlify.app/sitemap.xml
